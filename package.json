@@ -1,0 +1,10 @@
+{
+    "name": "com.yourcompany.mygamepackage",
+    "version": "1.0.0",
+    "description": "My Game Package",
+    "unity": "2023.3",
+    "displayName": "My Game Package",
+    "keywords": ["game", "package", "unity"],
+    "author": "Arjun Aswal",
+    "dependencies": {}
+}
