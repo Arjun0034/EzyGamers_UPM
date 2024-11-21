@@ -9,5 +9,7 @@
         "name": "Arjun Aswal",
         "url": "https://ashura421129.wixsite.com/arjunaswal-portfolio"
     },
-    "dependencies": {}
+    "dependencies": {
+  "com.unity.textmeshpro": "3.0.0"
+}
 }
