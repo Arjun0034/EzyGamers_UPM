@@ -5,6 +5,9 @@
     "unity": "2023.3",
     "displayName": "My Game Package",
     "keywords": ["game", "package", "unity"],
-    "author": "Arjun Aswal",
+    "author": {
+        "name": "Arjun Aswal",
+        "url": "https://ashura421129.wixsite.com/arjunaswal-portfolio"
+    },
     "dependencies": {}
 }
